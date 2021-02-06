@@ -34,6 +34,9 @@ Desain Sistem
 Berdasarkan analisis kebutuhan pengguna dan kebutuhan sistem didapatkan infrastruktur sistem backend yang dibuat yaitu terdiri atas tiga komponen utama yaitu web server, server side scripting dan database. Untuk infrastruktur frontend yang dibuat terdiri atas tiga komponen utama yaitu HTML5, CSS dan JavaScript.
 Salah satu kelebihan dari webmap **SIRISKA** ini yaitu selain memiliki fungsi CRUD (Create Read Update Delete) juga dapat melakukan 
 
+![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/Tesis_Dimas-Backend%20dan%20frontend.png)
+
+
 Skema Basidata
 ------------
 Pembangunan basisdata yang dilakukan terdiri atas dua tahapan utama yaitu konseptual, fisikal
