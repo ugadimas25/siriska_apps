@@ -7,7 +7,7 @@ Daftar Isi
 * [Pengantar](#pengantar)
 * [Data](#data)
 * [Desain Sistem](#desain-sistem)
-* [Library](#library)
+* [Skema Basisdata](#skema-basisdata)
 * [Live Demo](#live-demo)
 * [Issue](#issue)
 * [Acknowledgments](#acknowledgments)
