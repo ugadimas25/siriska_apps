@@ -36,11 +36,7 @@ Berdasarkan analisis kebutuhan pengguna dan kebutuhan sistem didapatkan infrastr
 Library
 -----
 
-mapbox-gl-js
-
-fetch.min.js
-
-bluebird.min.js
+Leaflet.js
 
 Live Demo
 ---------------
