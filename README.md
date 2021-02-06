@@ -38,6 +38,7 @@ Skema Basidata
 ------------
 Pembangunan basisdata yang dilakukan terdiri atas dua tahapan utama yaitu konseptual, fisikal
 * Basisdata Konseptual
+
 ![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/Tesis_Dimas-Basis%20Data%20konseptual.png)
 
 * Basisdata Fisikal
