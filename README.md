@@ -50,9 +50,17 @@ Pembangunan basisdata yang dilakukan terdiri atas dua tahapan utama yaitu konsep
 
 Use Case dan Activity Diagram
 -----
-* Skema Perhitungan Otomatis Kebutuhan Air Irigasi
+ * Activity Diagram
+![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/Activity%20Diagram.jpg)
 
+ * Use Case Diagram
+![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/Tesis_Dimas-Use%20case%20diagram.png)
+
+
+Skema Perhitungan Otomatis Kebutuhan Air Irigasi
+---------------
 ![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/Tesis_Dimas-Workflow%20Kalkulasi.png)
+
 
 Interface
 ---------------
