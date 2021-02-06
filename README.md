@@ -56,6 +56,7 @@ Use Case dan Activity Diagram
 ![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/Activity%20Diagram.jpg)
  
  * Use Case Diagram
+
 ![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/Tesis_Dimas-Use%20case%20diagram.png)
 
 
