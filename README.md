@@ -6,7 +6,7 @@ Daftar Isi
 
 * [Pengantar](#pengantar)
 * [Data](#data)
-* [Desain Sistem](#pengolahan-data)
+* [Desain Sistem](#desain-sistem)
 * [Library](#library)
 * [Live Demo](#live-demo)
 * [Issue](#issue)
@@ -33,14 +33,23 @@ Desain Sistem
 ------------
 Berdasarkan analisis kebutuhan pengguna dan kebutuhan sistem didapatkan infrastruktur sistem backend yang dibuat yaitu terdiri atas tiga komponen utama yaitu web server, server side scripting dan database. Untuk infrastruktur frontend yang dibuat terdiri atas tiga komponen utama yaitu HTML5, CSS dan JavaScript.
 
+Skema Basidata
+------------
+Pembangunan basisdata yang dilakukan terdiri atas dua tahapan utama yaitu konseptual, fisikal
+* Basisdata Konseptual
+
+
+
+
 Library
 -----
-
 Leaflet.js
 
 Interface
 ---------------
-Best Viewed with Microsoft Edge
+
+
+Tampilan Setelah Login
 ![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/interface_setelah_login.jpg)
 
 Issue
