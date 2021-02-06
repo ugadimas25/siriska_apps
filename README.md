@@ -65,23 +65,24 @@ Interface
 
   * Read data spasial
 ![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/spasial_read_fix.jpg)
-Tampilan Setelah Login
+
+
+2. Tampilan Setelah Login
 ![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/interface_setelah_login.jpg)
 
-Issue
------
-Terkait Cross-Origin resource data
-Jika data tidak terload ada kemungkinan issue terkait CROS, Origin Policy disallows reading the remote resource, atau perubahan policy pengaturan izin reading data, hanya boleh dalam satu domain yang sama dengan resource service. 
+ * Form Create Data Irigasi
+![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/form_create_data_irigasi.jpg)
+
+ * Form Update Data Irigasi
+![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/form_Update_data_irigasi.jpg)
+
+ * Download Data
+![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/download.jpg)
+
+
 
 Acknowledgments
 ---------------
-
-[MapBox](https://www.mapbox.com/)
-
-[HealthMap](https://www.healthmap.org/en/)
-
-[Open Data Working Group COVID-19 Global](https://github.com/beoutbreakprepared/nCoV2019/)
-
-[The World Air Quality Project EPA Worldwide](https://aqicn.org/contact)
+Terima kasih saya ucapkan terutama kepada Orang Tua dan Dosen Pembimbing Tesis Saya yaitu Pak [Dr. Trias Aditya](https://www.linkedin.com/in/trias-aditya-a9964715/) yang telah sangat berjasa atas pembuatan tesis ini. Selain itu saya ucapkan secara khusus kepada Pak [Andy Prasetya](https://www.linkedin.com/in/andy-prasetya-40662ba5/) yang telah banyak membantu saya dalam pembuatan webmap yang merupakan salah satu hasil dari produk tesis saya. 
 
 
