@@ -32,12 +32,15 @@ Data Porositas Tanah kecamatan Matesih dan Kecamatan KarangpandanKabupaten Karan
 Desain Sistem
 ------------
 Berdasarkan analisis kebutuhan pengguna dan kebutuhan sistem didapatkan infrastruktur sistem backend yang dibuat yaitu terdiri atas tiga komponen utama yaitu web server, server side scripting dan database. Untuk infrastruktur frontend yang dibuat terdiri atas tiga komponen utama yaitu HTML5, CSS dan JavaScript.
+Salah satu kelebihan dari webmap **SIRISKA** ini yaitu selain memiliki fungsi CRUD (Create Read Update Delete) juga dapat melakukan 
 
 Skema Basidata
 ------------
 Pembangunan basisdata yang dilakukan terdiri atas dua tahapan utama yaitu konseptual, fisikal
 * Basisdata Konseptual
+![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/Tesis_Dimas-Basis%20Data%20konseptual.png)
 
+* Basisdata Fisikal
 
 
 
