@@ -60,9 +60,11 @@ Interface
 1. Tampilan Sebelum Login
 ![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/interface_sebelum_login.jpg)
 
-* Read data Tabular
+  * Read data Tabular
 ![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/read_data_fix.jpg)
 
+  * Read data spasial
+![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/spasial_read_fix.jpg)
 Tampilan Setelah Login
 ![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/interface_setelah_login.jpg)
 
