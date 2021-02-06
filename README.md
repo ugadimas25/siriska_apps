@@ -38,10 +38,10 @@ Library
 
 Leaflet.js
 
-Live Demo
+Interface
 ---------------
 Best Viewed with Microsoft Edge
-![](https://isnain-dr.github.io/img/webgeo_demo.gif)
+![](https://github.com/ugadimas25/siriska_apps/blob/main/assets/images/interface_setelah_login.jpg)
 
 Issue
 -----
